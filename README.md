@@ -102,9 +102,6 @@ All models were evaluated using accuracy score and classification report. GridSe
 ## 🧑‍💻 Author
 
 **Ajmal Patel**
-Roll No: 413
-Machine Learning — Semester 4
-
 ---
 
 ## 📋 How to Run
